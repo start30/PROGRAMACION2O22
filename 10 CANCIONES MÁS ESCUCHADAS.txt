@@ -1,0 +1,78 @@
+<html>
+<head>
+<title>AUDIOS</title>
+</head>
+
+<marquee bgcolor=ffccff><font color="663366" face="christmas time personal use"><h1><center>BABYMETAL Y SUS CANCIONES MÁS ESCUCHADAS</CENTERT></H1></FONT></MARQUEE>
+<table bg color="ffccff" wudth="75%" border="3" bordercolor= "cc6600" align="center">
+<tr>
+<th>NUMERO</th>
+<th>NOMBRE DE LA CANCIÓN</th>
+<th>IMAGEN</th>
+<th>AUDIO</th>
+</tr>
+<th>1</th>
+<th>BxMxC</th>
+<th><img src="BXMXC.jpeg" width="200"heigth="200"></th>
+<th><p>PRESIONA PARA VER EL MV OFICIAL:<br>
+<a href="https://www.youtube.com/watch?v=ng8mh6JUIqY"> BxMxC </a></th>
+</tr>
+<th>2</th>
+<th>GIMME CHOCOLATE!</th>
+<th><img src="gimme chocolate!.jpg" width="200"heigth="200"></th>
+<th><p>PRESIONA PARA VER EL MV OFICIAL: <br>
+<a href="https://www.youtube.com/watch?v=WIKqgE4BwAY">GIMME CHOCOLATE!!</a></th>
+</tr>
+<th>3</th>
+<th>HEAD BANGYE!!<b>(HeadBangeeeeerrrrr!!!!!)</th>
+<th><img src="head bangye.jpg" width="200"heigth="200"></th>
+<th><p>PRESIONA PARA VER EL MV OFICIAL:<br>
+<a href="https://www.youtube.com/watch?v=2IzR_ClTE8Y">HEADBANGEEEEERRRRR!!!!!!!</a></th>
+</tr>
+<th>4</th>
+<th>MEGITSUNE</th>
+<th><img src="megitsune.jpg" width="200"heigth="200"></th>
+<th><p>PRESIONA PARA VER EL MV OFICIAL:<br>
+<a href="https://www.youtube.com/watch?v=cK3NMZAUKGw">MEGITSUNE</a></th>
+</tr>
+<th>5</th>
+<th>KARATE</th>
+<th><img src="karate.jpg" width="200"heigth="200">></th>
+<th><p>PRESIONA PARA VER EL MV OFICIAL:<br>
+<a href="https://www.youtube.com/watch?v=GvD3CHA48pA">KARATE</a></th>
+</tr>
+<th>6</th>
+<th>PA PA YA</th>
+<th><img src="pa pa ya.jpg" width="200"heigth="200"></th>
+<th><p>PRESIONE PARA VER EL MV OFICIAL:<br>
+<a href="https://www.youtube.com/watch?v=oO7Y8NsnkRg"> PA PA YA!!</a></th>
+</tr>
+<th>7</th>
+<th>IJIME,DAME,ZETTAI</th>
+<th><img src="ijime, dame, zettai.jpg" width="200"heigth="200"></th>
+<th><p>PRESIONA PARA VER EL MV OFICIAL:<br>
+<a href="https://www.youtube.com/watch?v=nDqaTXqCN-Q">IJIME,DAME,ZETTAI</a></th>
+</tr>
+<th>8</th>
+<th>AKATSUKI</th>
+<th><img src="akatsuki.jpg" width="200" heigth="200"></th>
+<th><p>PRESIONA PARA VER EL MV OFICIAL:<br>
+<a href="https://www.youtube.com/watch?v=CraoDWqIWE8">AKATSUKI</a></th>
+</tr>
+<th>9</th>
+<th>DOKI DOKI MORNING</th>
+<th><img src="doki doki morning.jpg"width="200" heidth="200"> </th>
+<th><p>PRESIONA PARA VER EL MV OFICIAL:<br>
+<a href="https://www.youtube.com/watch?v=cirhQ8iLdbw">DOKI DOKI☆MORNING</a>
+</th>
+</tr>
+<th>10</th>
+<th>CATCH ME IF YOU CAN </th>
+<th><img src="catch me.jpg" width="200" heidth="200"></th>
+<th><p>PRESIONA PARA VER EL MV OFICIAL:<br>
+<a href="https://www.youtube.com/watch?v=bUCF97_ah40">CATCH ME IF YOU CAN</a></th>
+</tr>
+</table>
+</body>
+</html>
+
